@@ -77,6 +77,7 @@ Docker Compose starts all services together:
 ```bash
 docker compose up -d
 ```
+<img width="1096" height="516" alt="image" src="https://github.com/user-attachments/assets/dedfccce-4113-4c17-b4aa-c05917971444" />
 
 ---
 
@@ -123,6 +124,9 @@ Before testing through the frontend, validate the backend directly.
 ```powershell
 Invoke-RestMethod -Uri "http://localhost:5000/attendance" -Method Get
 ```
+<img width="1157" height="690" alt="image" src="https://github.com/user-attachments/assets/7001ffef-dddd-4264-ad7d-59c06582dd98" />
+<img width="1032" height="745" alt="image" src="https://github.com/user-attachments/assets/8131a196-7ce2-4fd8-bbf1-de962ada3d15" />
+
 
 Expected Output:
 
@@ -184,8 +188,10 @@ React Frontend
       ↓
 PostgreSQL Database
 ```
+<img width="727" height="252" alt="image" src="https://github.com/user-attachments/assets/c0c12226-c6e0-4437-9b64-f9d3f1c1cfd8" />
 
 ---
+<img width="777" height="401" alt="image" src="https://github.com/user-attachments/assets/0546457b-d459-41b6-b06d-484a71fb0bed" />
 
 ## 7. Push the Code to GitHub
 
